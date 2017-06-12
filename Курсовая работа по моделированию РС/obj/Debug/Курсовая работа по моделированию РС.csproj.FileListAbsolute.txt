@@ -1,0 +1,10 @@
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\bin\Debug\Курсовая работа по моделированию РС.exe.config
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\bin\Debug\Курсовая работа по моделированию РС.exe
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\bin\Debug\Курсовая работа по моделированию РС.pdb
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая работа по моделированию РС.csprojResolveAssemblyReference.cache
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая_работа_по_моделированию_РС.Form1.resources
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая_работа_по_моделированию_РС.Properties.Resources.resources
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая работа по моделированию РС.csproj.GenerateResource.Cache
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая работа по моделированию РС.exe
+c:\users\колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая работа по моделированию РС.pdb
+C:\Users\Колючий\documents\visual studio 2012\Projects\Курсовая работа по моделированию РС\Курсовая работа по моделированию РС\obj\Debug\Курсовая_работа_по_моделированию_РС.Form2.resources
